@@ -1,0 +1,15 @@
+body{
+background:black;
+font: bold 18px/30px Arial, sans-serif;
+color:yellow;
+}
+#wrapper{
+display:flex;
+width:100%;
+}
+#header dl{ 
+display:flex;
+}
+#header dl dd{ 
+display:inline-block;
+}
