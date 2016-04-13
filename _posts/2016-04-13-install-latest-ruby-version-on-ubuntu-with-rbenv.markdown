@@ -49,4 +49,12 @@ Open your terminal and type the following commands:
 
     $ gem install bundler
 
+// check your installed gems 
+
+    $ gem list
+
+// check where a gem is installed
+
+    $ gem which <gemname>
+
 That's all folks!
